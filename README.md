@@ -1,28 +1,16 @@
-# Project Pages
+A [Jekyll](https://jekyllrb.com/) blog template made for simple, readable snippets of your brain drippings.
 
-Project Pages is Jekyll Template specifically geared towards collaborative science. For more information, click [here](https://github.com/projectpages/project-pages/wiki/).
+[DEMO](http://adueck.github.io/cayman-blog/)
 
-# Nav Bar Jumbles
+To get this going follow these simple steps:
 
-If you have seemingly random pages popping up on your Nav Bar recently, this is due to the fact that GitHub/Jekyll changed a fundemental rule they used to render pages. 
+1. Fork, clone, or download the repository
+2. Edit <code>_config.yml</code>
+3. If you want, swap `img/cover.jpg` for your own header image
+3. Fill up the `_posts` folder with whatever you want to say
+4. run <code>jekyll build</code> and then <code>jekyll serve</code>  
+note: This will require the `jekyll-paginate` gem `$ gem install jekyll-paginate`
 
-## CAUSE:
-It used to be that if a markdown file didn't have `---` frontmatter at the beginning, it wasn't rendered as a page. This was changed very recently (like in the last 2 days) so that every markdown file anywhere no matter what gets rendered as a page.  
+You can easily host your blog for free on [GitHub Pages](https://pages.github.com/)
 
-## FIX:
-
-1) Go to:
-
-`project-pages/plugin/projector/` or `yourreponame/plugin/projector/` and delete the `README.md` file. This can be done graphically for the non-Git-savvy by simply going to your:
-
-GitHub account -> Your Profile -> Repositories -> Project-Pages/Your Repo -> Plugin -> projector 
-
-and clicking on the files, then clicking on the "thrash can / delete this file" icon on the top right corner of the file.
-
-2) Go to:
-
-`project-pages/css/theme/` or `yourreponame/css/theme/` and delete the `README.md` file. This can be done graphically for the non-Git-savvy by simply going to your:
-
-GitHub account -> Your Profile -> Repositories -> Project-Pages/Your Repo -> Plugin -> projector 
-
-and clicking on the files, then clicking on the "thrash can / delete this file" icon on the top right corner of the file.
+I made this Jekyll theme by adapting and modifying the [Cayman Theme](https://github.com/jasonlong/cayman-theme) by [Jason Lang](https://github.com/jasonlong), which is licensed under a [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/).
