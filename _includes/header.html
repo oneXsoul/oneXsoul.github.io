@@ -1,20 +1,15 @@
-<div class="header">
-    <h1>
-        <a style="color: #000;" href="{{ site.baseurl }}/">{{ site.title }}</a>
-    </h1>
-    <p class="sub">
-        {{ site.description }}
-    </p>
+<header class="site-header">
 
-    <div class="menu">
-        <ul class="navlist">
-            {% for link in site.links %}
-            <li>
-                <a class="page-link" href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
-            </li>
-            {% endfor %}
-        </ul>
-    </div>
-</div>
+  <div class="wrapper">
 
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    
+  </div>
 
+  <div class="header-badge">
+    <a href="{{ site.baseurl }}/">
+        <img src="/jekyll-wing-template/assets/headshot.jpg" />
+    </a>
+  </div>
+    
+</header>
