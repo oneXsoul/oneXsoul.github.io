@@ -1,76 +1,29 @@
-# Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
-reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://oneXsoul.github.io/Moon
+﻿markdown: kramdown
+highlighter: rouge
 
-# Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
-sass:
-  sass_dir:         _sass
-  style:            compressed
+permalink: blog/:year/:month/:day/:title.html
+paginate: 7
+paginate_path: page/:num
+encoding: "utf-8"
+future: true
+lsi: false
+safe: true
+gems: [jekyll-paginate]
 
-# Comments
-disqus_shortname:   taylantatli
-
-# Social
-# if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         oneXsoul
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
-#xing:              username
-instagram:          username
-#lastfm:            username
-#tumblr:            username
-#medium:            '@username'
-#pinterest:         username
-#foursquare:        username
-steam:              username
-#dribbble:          username
-#youtube:           username
-#youtube-channel:   channel
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-
-# Gems
-gems:
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-
-jekyll-mentions:
-    base_url: https://github.com
-
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+blog:
+    name: Jeray's Blog # 博客名称
+    description: 都会好的 总会有的 # 博客描述
+    title: fork # 网页标题
+    url: oneXsoul.github.io # 博客地址
+    duoshuo: 你说的每句话我都记得 # 多说ID
+    tongji: 无 # 百度统计ID
+    qiniu: # 七牛云地址
+author:
+    name: Jeray # 作者名称
+    email: 398663997@qq.com # 邮箱地址
+    weibo: http://weibo.com/onexsoul # 微博地址
+    github: https://github.com/oneXsoul # GitHub地址
+    logo: /res/img/psb.jpg # logo地址
+    douban:
+        name: 保密    # 豆瓣地址名称
+        key:             # 豆瓣API Key
