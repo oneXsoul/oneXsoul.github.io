@@ -1,14 +1,7 @@
 ---
 layout: life
 date: 2016
-title: 故事的小黄花
----
-
- **<center>我只想看见指尖有多少异象闪光。</center>**
-
-
-
-**<center>闭上双眼我又看见，当年那梦的画面。</center>**
+title: 我只想看见指尖有多少异象闪光
 
 
 
@@ -73,3 +66,18 @@ title: 故事的小黄花
     </table>
     </div>
 ****
+ <div class='lifelog'>
+  <h2 id="section-1">2017年07月</h2>
+	<table>
+	  <thead>
+		<tr>
+		  <th style="text-align: center">moonbeam</th>
+		  <th style="text-align: center">mooch</th>
+		</tr>
+      </thead>
+      <tr>
+        <td style="text-align: center"><a href="/life/2017/07/2017-07-08.html">2017-07-08</a></td>
+        <td style="text-align: center"><code class="highlighter-rouge">开始</code></td>
+     </tr>
+    </table>
+    </div>
