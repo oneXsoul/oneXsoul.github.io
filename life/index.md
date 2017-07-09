@@ -13,57 +13,20 @@ title: 故事的小黄花
  <div class='lifelog'>
   <h2 id="section-1">2016年10月</h2>
 	<table>
-	  <thead>
-		<tr>
-		  <th style="text-align: center"></th>
-		  <th style="text-align: center"></th>
-		</tr>
-      </thead>
     <tbody>
-
       <tr>
-        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">2016-10-06</a></td>
-        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">2016-10-06</a></td>
-        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">2016-10-06</a></td>
-        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">2016-10-06</a></td>
-        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">2016-10-06</a></td>
-        
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">10-06</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-08.html">10-08</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-09.html">10-09</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-10.html">10-10</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-11.html">10-11</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-13.html">10-13</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-25.html">10-25</a></td>        
      </tr>
      <tr>
-        <td style="text-align: center"><a href="/life/2016/10/2016-10-08.html">2016-10-08</a></td>
-        <td style="text-align: center">cold</td>
-     </tr>
-     <tr>
-        <td style="text-align: center"><a href="/life/2016/10/2016-10-09.html">2016-10-09</a></td>
-        <td style="text-align: center"><code class="highlighter-rouge">更冷</code></td>
-     </tr>
-    <tr>
-        <td style="text-align: center"><a href="/life/2016/10/2016-10-10.html">2016-10-10</a></td>
-        <td style="text-align: center"><code class="highlighter-rouge">香菇</code></td>
-     </tr>
-     <tr>
-        <td style="text-align: center"><a href="/life/2016/10/2016-10-11.html">2016-10-11</a></td>
-        <td style="text-align: center"><code class="highlighter-rouge">微笑.jpg</code></td>
-     </tr>
-     <tr>
-        <td style="text-align: center"><a href="/life/2016/10/2016-10-13.html">2016-10-13</a></td>
-        <td style="text-align: center"><code class="highlighter-rouge">开心吗</code></td>
-     </tr>
-    <tr>
-        <td style="text-align: center"><a href="/life/2016/10/2016-10-25.html">2016-10-25</a></td>
-        <td style="text-align: center"><code class="highlighter-rouge">-_-</code></td>
-     </tr>
-    <tr>
-        <td style="text-align: center"><a href="/life/2016/10/2016-10-26.html">2016-10-26</a></td>
-        <td style="text-align: center"><code class="highlighter-rouge">good luck</code></td>
-     </tr>
-    <tr>
-        <td style="text-align: center"><a href="/life/2016/10/2016-10-27.html">2016-10-27</a></td>
-        <td style="text-align: center"><code class="highlighter-rouge">💀</code></td>
-     </tr>
-    <tr>
-        <td style="text-align: center"><a href="/life/2016/10/2016-10-31.html">2016-10-31</a></td>
-        <td style="text-align: center"><code class="highlighter-rouge">🎈</code></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-26.html">10-26</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-27.html">10-27</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-31.html">10-31</a></td>        
      </tr>
     </tbody>
     </table>
@@ -74,13 +37,15 @@ title: 故事的小黄花
 	<table>
 	  <thead>
 		<tr>
-		  <th style="text-align: center">moonbeam</th>
-		  <th style="text-align: center">mooch</th>
-		</tr>
-      </thead>
-      <tr>
-        <td style="text-align: center"><a href="/life/2017/07/2017-07-08.html">2017-07-08</a></td>
-        <td style="text-align: center"><code class="highlighter-rouge">开始</code></td>
-     </tr>
+    </thead>
+        <tr>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">10-06</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">10-06</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">10-06</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">10-06</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">10-06</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-0690bvcx06</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">10-06</a></td>        
+    </tr>
     </table>
     </div>
