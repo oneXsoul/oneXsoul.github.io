@@ -15,19 +15,23 @@ title: 故事的小黄花
 	<table>
 	  <thead>
 		<tr>
-		  <th style="text-align: center">moonbeam</th>
-		  <th style="text-align: center">HGHJG </th>
+		  <th style="text-align: center"></th>
+		  <th style="text-align: center"></th>
 		</tr>
       </thead>
     <tbody>
 
       <tr>
         <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">2016-10-06</a></td>
-        <td style="text-align: center">你说</td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">2016-10-06</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">2016-10-06</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">2016-10-06</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">2016-10-06</a></td>
+        
      </tr>
      <tr>
         <td style="text-align: center"><a href="/life/2016/10/2016-10-08.html">2016-10-08</a></td>
-        <td style="text-align: center">冷</td>
+        <td style="text-align: center">cold</td>
      </tr>
      <tr>
         <td style="text-align: center"><a href="/life/2016/10/2016-10-09.html">2016-10-09</a></td>
