@@ -22,12 +22,12 @@ title: 故事的小黄花
     <tbody>
 
       <tr>
-        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">SHUOLE</a></td>
-        <td style="text-align: center"><code class="highlighter-rouge">你说</code></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">2016-10-06</a></td>
+        <td style="text-align: center">你说</td>
      </tr>
      <tr>
         <td style="text-align: center"><a href="/life/2016/10/2016-10-08.html">2016-10-08</a></td>
-        <td style="text-align: center"><code class="highlighter-rouge">冷</code></td>
+        <td style="text-align: center">冷</td>
      </tr>
      <tr>
         <td style="text-align: center"><a href="/life/2016/10/2016-10-09.html">2016-10-09</a></td>
