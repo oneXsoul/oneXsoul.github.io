@@ -16,13 +16,13 @@ title: 故事的小黄花
 	  <thead>
 		<tr>
 		  <th style="text-align: center">moonbeam</th>
-		  <th style="text-align: center">mooch</th>
+		  <th style="text-align: center">HGHJG </th>
 		</tr>
       </thead>
     <tbody>
 
       <tr>
-        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">2016-10-06</a></td>
+        <td style="text-align: center"><a href="/life/2016/10/2016-10-06.html">SHUOLE</a></td>
         <td style="text-align: center"><code class="highlighter-rouge">你说</code></td>
      </tr>
      <tr>
