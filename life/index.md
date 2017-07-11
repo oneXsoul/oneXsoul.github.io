@@ -39,7 +39,7 @@ title: 故事的小黄花
     <tbody>
       <tr>
         <td style="text-align: center"><a href="/life/2017/07/2017-07-09.html">07-09</a></td>
-        <td style="text-align: center"><a href="/life/2017/10/2017-07-10.html">07-10</a></td>
+        <td style="text-align: center"><a href="/life/2017/07/2017-07-10.html">07-10</a></td>
         <td style="text-align: center"><a href="/life/2016/10/2017-10-09.html">10-09</a></td>
         <td style="text-align: center"><a href="/life/2016/10/2016-10-10.html">10-10</a></td>
         <td style="text-align: center"><a href="/life/2016/10/2016-10-11.html">10-11</a></td>
